@@ -32,3 +32,7 @@ npx wrangler deploy --dry-run
 ```
 
 Content is derived from the Apache-2.0 licensed uav-safe-sim project.
+
+---
+
+Thanks for reading. More of my work: [github.com/1243353366](https://github.com/1243353366).
